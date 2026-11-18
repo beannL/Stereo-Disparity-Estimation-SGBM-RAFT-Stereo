@@ -1,0 +1,8 @@
+RAFT-Stereo inference modules
+Princeton Vision & Learning Lab
+https://github.com/princeton-vl/RAFT-Stereo
+Revision: 6e93ed2169bd858dbb43033988563f3b0bb49506
+License: MIT (see LICENSE).
+
+The five Python modules under core/ are copied from this revision. The
+assignment scripts in source_code/ call the pretrained model for inference.

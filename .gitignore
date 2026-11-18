@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Local data and large downloaded assets
+data/
+models/
+*.pth
+*.zip
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+.vscode/
+.idea/
